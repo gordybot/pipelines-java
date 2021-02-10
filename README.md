@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/gordystephenson/Test%20REST%20API/_apis/build/status/gordybot.pipelines-java?branchName=master)](https://dev.azure.com/gordystephenson/Test%20REST%20API/_build/latest?definitionId=4&branchName=master)
 
+https://dev.azure.com/gordystephenson/Test%20REST%20API/_apis/build/status/gordybot.pipelines-java?branchName=master
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
